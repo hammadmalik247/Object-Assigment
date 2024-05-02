@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font: 1em sans-serif;
+}
+
+body{
+    background-color: #222121;
+
+}
+h1{
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+
+.cards{
+    margin-top: 20px;
+    border: 1px solid gray;
+    background-color: white;
+}
